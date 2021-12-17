@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "19c95c09-5bc7-44be-a9d3-f6fac533a34d": {
+      "ProjectGuid": "19c95c09-5bc7-44be-a9d3-f6fac533a34d",
+      "DisplayName": "Coinbase",
+      "ColorIndex": 0
+    },
+    "2547a3b0-862a-4bca-9c67-eaa46bc1015b": {
+      "ProjectGuid": "2547a3b0-862a-4bca-9c67-eaa46bc1015b",
+      "DisplayName": "UnitTestProject1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,7 @@
+C:\Users\Julius\Downloads\Coinbase\Coinbase\Coinbase\obj\Debug\net48\Coinbase.csproj.AssemblyReference.cache
+C:\Users\Julius\Downloads\Coinbase\Coinbase\Coinbase\obj\Debug\net48\Coinbase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julius\Downloads\Coinbase\Coinbase\Coinbase\obj\Debug\net48\Coinbase.exe.config
+C:\Users\Julius\Downloads\Coinbase\Coinbase\Coinbase\obj\Debug\net48\Coinbase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julius\Downloads\Coinbase\Coinbase\Coinbase\obj\Debug\net48\Coinbase.AssemblyInfoInputs.cache
+C:\Users\Julius\Downloads\Coinbase\Coinbase\Coinbase\obj\Debug\net48\Coinbase.AssemblyInfo.cs
+C:\Users\Julius\Downloads\Coinbase\Coinbase\Coinbase\obj\Debug\net48\Coinbase.csproj.CoreCompileInputs.cache
